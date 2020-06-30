@@ -261,8 +261,7 @@ int bici_ordenTipo(void* cajaA,void* cajaB)
     char* biciA;
     char* biciB;
 
-    int tiempoA;
-    int tiempoB;
+
 
 
     if(cajaA != NULL && cajaB != NULL)
@@ -277,17 +276,6 @@ int bici_ordenTipo(void* cajaA,void* cajaB)
             biciA = bici_getTipo(cajaA);
             biciB = bici_getTipo(cajaB);
 
-            bici_getTiempo(biA,&tiempoA);
-            bici_getTiempo(biB,&tiempoB);
-
-           if(tiempoA > tiempoB)
-            {
-                estado = 1;
-            }
-            else if(tiempoA < tiempoB)
-            {
-                estado = -1;
-            }
 
         }
          estado = strcmp(biciA,biciB);
