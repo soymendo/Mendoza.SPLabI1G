@@ -171,8 +171,8 @@ int main()
 
                 printf("Ordenando...\n");
 
-                ll_sort(listaBicis,bici_ordenTipo,1);
-                //ll_sort(listaBicis,bici_ordenTiempo,0);
+                //ll_sort(listaBicis,bici_ordenTipo,1);
+                ll_sort(listaBicis,bici_ordenTiempo,1);
 
 
                 system("cls");
