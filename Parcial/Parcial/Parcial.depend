@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1593474243 source:c:\users\maxi\desktop\tp1\parcial\parcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"parser.h"
+	"controller.h"
+	"bicicletas.h"
+	"linkedList.h"
+
+1593464573 source:c:\users\maxi\desktop\tp1\parcial\parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"parser.h"
+	"controller.h"
+	"linkedList.h"
+
+1593464573 c:\users\maxi\desktop\tp1\parcial\parcial\funciones.h
+
+1593469502 c:\users\maxi\desktop\tp1\parcial\parcial\parser.h
+	"linkedList.h"
+
+1593474195 c:\users\maxi\desktop\tp1\parcial\parcial\controller.h
+	"bicicletas.h"
+	"linkedList.h"
+
+1593467213 c:\users\maxi\desktop\tp1\parcial\parcial\linkedlist.h
+
+1593478341 source:c:\users\maxi\desktop\tp1\parcial\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"parser.h"
+	"controller.h"
+	"bicicletas.h"
+	"linkedList.h"
+	"time.h"
+
+1593474285 source:c:\users\maxi\desktop\tp1\parcial\parcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"parser.h"
+	"controller.h"
+	"bicicletas.h"
+	"linkedList.h"
+
+1593468020 source:c:\users\maxi\desktop\tp1\parcial\parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"parser.h"
+	"controller.h"
+	"bicicletas.h"
+	"linkedList.h"
+
+1593477567 c:\users\maxi\desktop\tp1\parcial\parcial\bicicletas.h
+	"linkedList.h"
+
+1593478486 source:c:\users\maxi\desktop\tp1\parcial\parcial\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"parser.h"
+	"controller.h"
+	"bicicletas.h"
+	"linkedList.h"
+
